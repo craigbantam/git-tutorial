@@ -1,3 +1,3 @@
 console.log('change.js');
-console.log('version1');
-console.log('remote commit');
+console.log('version12');
+console.log('remote commit amend');
